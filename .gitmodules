@@ -1,0 +1,18 @@
+[submodule "gql-server"]
+	path = gql-server
+	url = https://github.com/kiwisheets/gql-server
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/kiwisheets/frontend
+[submodule "file-server"]
+	path = file-server
+	url = https://github.com/kiwisheets/file-server
+[submodule "deploy-config"]
+	path = deploy-config
+	url = https://github.com/kiwisheets/deploy-config
+[submodule "local-config"]
+	path = local-config
+	url = https://github.com/kiwisheets/local-config
+[submodule "local-reverse-proxy"]
+	path = local-reverse-proxy
+	url = https://github.com/kiwisheets/local-reverse-proxy
