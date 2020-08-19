@@ -1,0 +1,5 @@
+primary: 8DCA6E
+accent: 1299A1
+caution: E2CF4E
+warning: E8A74D
+error: ED6A44
