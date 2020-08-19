@@ -43,5 +43,5 @@ To shutdown the stack:
     npm run stop-dev
 
 ## Modules
-### [Frontend](frontend/README.md)
-See the readme for more info
+### Frontend
+See the README inside this module for more info
