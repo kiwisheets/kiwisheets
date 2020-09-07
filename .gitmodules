@@ -22,3 +22,9 @@
 	path = local-reverse-proxy
 	url = https://github.com/kiwisheets/local-reverse-proxy
 	branch = master
+[submodule "deployment"]
+	path = deployment
+	url = https://github.com/kiwisheets/deployment
+[submodule "deployment-infrastructure"]
+	path = deployment-infrastructure
+	url = https://github.com/kiwisheets/deploy-infrastructure
