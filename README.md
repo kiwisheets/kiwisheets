@@ -3,11 +3,11 @@
 ![Logo](branding/logo.png)
 
 ## Build status
-| Module      | Status                                                                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| Frontend    | [![Build Status](https://travis-ci.com/kiwisheets/frontend.svg?branch=master)](https://travis-ci.com/kiwisheets/frontend)       |
-| GQL Server  | [![Build Status](https://travis-ci.com/kiwisheets/gql-server.svg?branch=master)](https://travis-ci.com/kiwisheets/gql-server)   |
-| File Server | [![Build Status](https://travis-ci.com/kiwisheets/file-server.svg?branch=master)](https://travis-ci.com/kiwisheets/file-server) |
+| Module      | Status                                                                                                                       |
+| ----------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| Frontend    | [![Build Status](https://github.com/kiwisheets/frontend/workflows/CI/CD/badge.svg)](https://github.com/kiwisheets/frontend)  |
+| GQL Server  | [![Build Status](https://github.com/kiwisheets/gql-server/workflows/CI/CD/badge.svg)](https://github.com/kiwisheets/gql-server)   |
+| File Server | [![Build Status](https://travis-ci.com/kiwisheets/file-server.svg?branch=master)](https://github.com/kiwisheets/file-server) |
 
 ## Quick start
 
